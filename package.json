@@ -1,0 +1,23 @@
+{
+  "name": "histoday",
+  "version": "1.0.0",
+  "description": "a discord bot made with discord.js and node",
+  "main": "index.js",
+  "scripts": {
+    "test": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dreeeems/Histoday.git"
+  },
+  "keywords": [
+    "bot",
+    "discord"
+  ],
+  "author": "Dreeeems",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dreeeems/Histoday/issues"
+  },
+  "homepage": "https://github.com/Dreeeems/Histoday#readme"
+}
